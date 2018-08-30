@@ -1,6 +1,6 @@
 # Grant's First CS193 Lab
 
-###My Favorite Things About Purdue CS
+### My Favorite Things About Purdue CS
 - The help and support from TA's
 - The learning of new concepts and the command line
 
