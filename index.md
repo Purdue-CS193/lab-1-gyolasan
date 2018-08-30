@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
-#Grant's First CS193 Lab
+# Grant's First CS193 Lab
 
-My Favorite Things About Purdue CS
--The help and support from TA's
--The learning of new concepts and the command line
+###My Favorite Things About Purdue CS
+- The help and support from TA's
+- The learning of new concepts and the command line
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -27,7 +26,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
+https://purdue-cs193.gith
 [Link](url) and ![Image](src)
 ```
 
